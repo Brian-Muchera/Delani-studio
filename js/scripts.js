@@ -7,3 +7,8 @@ $(document).ready(function () {
       $(".development-text").toggle();
       $(".development-img").hide();
     });
+    $(".product-img").click(function () {$(document).ready(function () {
+        $(".design-img").click(function () {
+          $(".design-text").toggle();
+          $(".design-img").hide();
+        });
