@@ -28,4 +28,15 @@ $(document).ready(function () {
               $(".development-text").click(function () {
                 $(".development-img").toggle();
                 $(".development-text").hide();
-              });   
+              }); 
+              $(".product-text").click(function () {
+                $(".product-img").toggle();
+                $(".product-text").hide();
+              });
+            });
+            
+            $(document).ready(function () {
+              $(".col-md-3").mouseover(function () {
+                $(".col-md-3").css("border-size", "5px");
+              });
+            });   
