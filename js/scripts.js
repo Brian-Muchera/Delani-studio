@@ -20,4 +20,12 @@ $(document).ready(function () {
             $(".product-img").click(function () {
                 $(".product-text").toggle();
                 $(".product-img").hide();
-            });   
+            });
+            $(".design-text").click(function () {
+                $(".design-img").toggle();
+                $(".design-text").hide();
+              });
+              $(".development-text").click(function () {
+                $(".development-img").toggle();
+                $(".development-text").hide();
+              });   
