@@ -39,4 +39,25 @@ $(document).ready(function () {
               $(".col-md-3").mouseover(function () {
                 $(".col-md-3").css("border-size", "5px");
               });
-            });   
+            }); 
+            
+            function reset() {
+                document.getElementById("myform").reset();
+              }
+                  $(".product-text").toggle();
+                  $(".product-img").hide();
+                });
+                $(".design-text").click(function () {
+                  $(".design-img").toggle();
+                  $(".design-text").hide();
+                });
+                $(".development-text").click(function () {
+                  $(".development-img").toggle();
+                  $(".development-text").hide();
+                });
+                $(".product-text").click(function () {
+                  $(".product-img").toggle();
+                  $(".product-text").hide();
+                });
+              });
+              
