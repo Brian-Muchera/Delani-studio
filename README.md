@@ -10,9 +10,14 @@
 ## set up instructions
  
 
- ## Technologies used
-  $ HTML
-  $ CSS
-  $ BOOTSTRAP
-  $ JAVASCRIPT
+## Technologies used
+  -HTML
+  -CSS
+  -BOOTSTRAP
+  -JAVASCRIPT
+
+## contact me
+   mucherabrian2@gmail.com
+
+
 
