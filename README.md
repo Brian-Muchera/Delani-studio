@@ -16,6 +16,9 @@
   -BOOTSTRAP
   -JAVASCRIPT
 
+## Live link
+  https://brian-muchera.github.io/Delani-studio/
+
 ## contact me
    mucherabrian2@gmail.com
 
