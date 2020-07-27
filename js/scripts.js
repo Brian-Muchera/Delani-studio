@@ -47,7 +47,7 @@ $(document).ready(function () {
             if (name === "" || email == "") {
                 alert("Please enter name and email correctly...");
             } else {
-                alert(name + "" + "we have recieved your message");
+                alert( name + " " + " we have received your message ");
             };
         };
 
