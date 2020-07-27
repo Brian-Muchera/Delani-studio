@@ -8,7 +8,7 @@
   This website advertises the work done by the team in this sector.The team designs, develops and manages the product of the website according to the clients choice during coding and programming the application.
 
 ## set up instructions
-  
+  Clone and download to install the website.
 
 ## Technologies used
   -HTML
